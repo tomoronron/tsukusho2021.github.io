@@ -54,7 +54,7 @@ header h1 {
     left: 20px;
     font-weight: 600; 
     padding: 0 10px;
-    transform: translateY(-11%);
+    transform: translateY(-115%);
 }
 
 #main h3::before {
